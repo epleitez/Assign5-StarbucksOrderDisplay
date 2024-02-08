@@ -1,0 +1,4 @@
+grande,ice,latte,4.45
+venti,hot,coffee,2.95
+grande,ice,coffee,3.45
+tall,ice,green tea,2.95
